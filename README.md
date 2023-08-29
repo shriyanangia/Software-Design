@@ -1,12 +1,6 @@
 Software Design ECE:3330 Spring 2021
 =======================
 
-This page contains only partial supplementary information related to git.
-The information on this page may be OUTDATED.
-For current course information see the ICON class web site.
-
-For email help use <swd-tas@eng.uiowa.edu>.
-
 Helpful URLS directly relevant to SWD class
 --------
 - [ ] Icon               http://icon.uiowa.edu
