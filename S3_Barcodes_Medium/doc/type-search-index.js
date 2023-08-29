@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"PostNetDecoding"},{"p":"<Unnamed>","l":"PostNetEncoding"},{"p":"<Unnamed>","l":"PostNetEncodingDecodingDriver"},{"p":"<Unnamed>","l":"UpcDecoding"},{"p":"<Unnamed>","l":"UpcEncoding"},{"p":"<Unnamed>","l":"UpcEncodingDecodingDriver"}]
